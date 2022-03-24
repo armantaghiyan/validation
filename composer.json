@@ -1,0 +1,16 @@
+{
+  "name": "armantaghiyan/sample",
+  "description": "sample project for test composer",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "ArmanValidation\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "arman taghiyan",
+      "email": "taghiyan98@gmail.com"
+    }
+  ]
+}
