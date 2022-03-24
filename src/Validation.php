@@ -13,4 +13,8 @@ class Validation
         return false;
     }
 
+    public function get()
+    {
+
+    }
 }
